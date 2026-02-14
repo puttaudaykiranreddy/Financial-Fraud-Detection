@@ -1,0 +1,8 @@
+﻿# Ignore datasets and models
+*.h5
+*.pkl
+*.csv
+__pycache__/
+*.png
+*.pdf
+*.svg
